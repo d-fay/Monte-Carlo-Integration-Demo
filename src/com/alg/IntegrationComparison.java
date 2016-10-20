@@ -1,6 +1,6 @@
 package com.alg;
 
-public class TrapIntegrate {
+public class IntegrationComparison {
 
     final public static double A = -2;
     final public static double B = 2;
